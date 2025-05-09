@@ -1,0 +1,19 @@
+sudo apt update
+
+sudo apt install apache2
+
+sudo systemctl start apache2
+
+sudo syatemctl eneble apache2
+
+apache2 -v
+
+cd/var/www/html
+
+sudo rm index.html
+
+sudo nano dashboard.html
+
+http://localhost/filename
+
+
