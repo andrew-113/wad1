@@ -1,0 +1,17 @@
+On VS code terminal :
+npm init
+npm install express
+
+AWS Ubuntu terminal:
+sudo apt update
+
+sudo apt install nodejs npm / sudo apt npm install nodejs 
+
+sudo npm install -g pm2
+
+git clone link
+
+cd foldername
+
+pm2 start server.js
+
